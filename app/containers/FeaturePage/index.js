@@ -25,7 +25,7 @@ export default class FeaturePage extends React.Component { // eslint-disable-lin
     return (
       <div>
         <Helmet>
-          <title>Feature Page</title>
+          <title>Anatomical Yoga</title>
           <meta name="description" content="Feature page of React.js Boilerplate application" />
         </Helmet>
         <H1>
